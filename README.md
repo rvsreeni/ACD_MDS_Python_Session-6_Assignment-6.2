@@ -1,1 +1,1 @@
-# ACD_MDS_Python_Session-6_Assignment-6.2
+# ACD_MDS_Stats_Session-6_Assignment-6.2
